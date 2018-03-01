@@ -1,0 +1,212 @@
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\ApplicationInsights.config
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\roslyn\csc.exe
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\roslyn\System.Collections.Immutable.dll
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\roslyn\System.Reflection.Metadata.dll
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\roslyn\vbc.exe
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\roslyn\VBCSCompiler.exe
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\roslyn\VBCSCompiler.exe.config
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\Sephora.dll.config
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\Sephora.dll
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\Sephora.pdb
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\Antlr3.Runtime.dll
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\Microsoft.AI.Agent.Intercept.dll
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\Microsoft.AI.DependencyCollector.dll
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\Microsoft.AI.Web.dll
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\Microsoft.AI.WindowsServer.dll
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\Microsoft.ApplicationInsights.dll
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\Microsoft.Web.Infrastructure.dll
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\Newtonsoft.Json.dll
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\System.Web.Helpers.dll
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\System.Web.Mvc.dll
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\System.Web.Optimization.dll
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\System.Web.Razor.dll
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\System.Web.WebPages.Deployment.dll
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\System.Web.WebPages.dll
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\System.Web.WebPages.Razor.dll
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\WebGrease.dll
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\Microsoft.AI.DependencyCollector.xml
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\Microsoft.AI.Web.xml
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\Microsoft.AI.WindowsServer.xml
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\Microsoft.ApplicationInsights.xml
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\System.Web.Helpers.xml
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\System.Web.Mvc.xml
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\System.Web.Optimization.xml
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\System.Web.Razor.xml
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\System.Web.WebPages.xml
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\System.Web.WebPages.Deployment.xml
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\System.Web.WebPages.Razor.xml
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\Antlr3.Runtime.pdb
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\bin\Newtonsoft.Json.xml
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\obj\Debug\Sephora.dll
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\obj\Debug\Sephora.pdb
+F:\JOB ASSIGNMENT\Sephora\Sephora\Sephora\obj\Debug\Sephora.csprojResolveAssemblyReference.cache
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\ApplicationInsights.config
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\roslyn\csc.exe
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\roslyn\vbc.exe
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\roslyn\VBCSCompiler.exe
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\Sephora.dll.config
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\Sephora.dll
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\Sephora.pdb
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\Antlr3.Runtime.dll
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\Microsoft.AI.Web.dll
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\Newtonsoft.Json.dll
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\System.Web.Helpers.dll
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\System.Web.Mvc.dll
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\System.Web.Optimization.dll
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\System.Web.Razor.dll
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\System.Web.WebPages.dll
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\System.Web.WebPages.Razor.dll
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\WebGrease.dll
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\Microsoft.AI.Web.xml
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\System.Web.Helpers.xml
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\System.Web.Mvc.xml
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\System.Web.Optimization.xml
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\System.Web.Razor.xml
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\System.Web.WebPages.xml
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\System.Web.WebPages.Razor.xml
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\Antlr3.Runtime.pdb
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\bin\Newtonsoft.Json.xml
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\obj\Debug\Sephora.csprojResolveAssemblyReference.cache
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\obj\Debug\Sephora.dll
+C:\Users\Krishan\Desktop\New folder (4)\Sephora\Sephora\Sephora\obj\Debug\Sephora.pdb
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\ApplicationInsights.config
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\roslyn\csc.exe
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\roslyn\System.Collections.Immutable.dll
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\roslyn\System.Reflection.Metadata.dll
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\roslyn\vbc.exe
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\roslyn\VBCSCompiler.exe
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\roslyn\VBCSCompiler.exe.config
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\Sephora.dll.config
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\Sephora.dll
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\Sephora.pdb
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\Antlr3.Runtime.dll
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\Microsoft.AI.Agent.Intercept.dll
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\Microsoft.AI.DependencyCollector.dll
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\Microsoft.AI.Web.dll
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\Microsoft.AI.WindowsServer.dll
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\Microsoft.ApplicationInsights.dll
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\Microsoft.Web.Infrastructure.dll
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\Newtonsoft.Json.dll
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\System.Web.Helpers.dll
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\System.Web.Mvc.dll
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\System.Web.Optimization.dll
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\System.Web.Razor.dll
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\System.Web.WebPages.Deployment.dll
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\System.Web.WebPages.dll
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\System.Web.WebPages.Razor.dll
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\WebGrease.dll
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\Microsoft.AI.DependencyCollector.xml
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\Microsoft.AI.Web.xml
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\Microsoft.AI.WindowsServer.xml
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\Microsoft.ApplicationInsights.xml
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\System.Web.Helpers.xml
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\System.Web.Mvc.xml
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\System.Web.Optimization.xml
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\System.Web.Razor.xml
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\System.Web.WebPages.xml
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\System.Web.WebPages.Deployment.xml
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\System.Web.WebPages.Razor.xml
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\Antlr3.Runtime.pdb
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\bin\Newtonsoft.Json.xml
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\obj\Debug\Sephora.csprojResolveAssemblyReference.cache
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\obj\Debug\Sephora.dll
+E:\MY CREATIONS\Projects\Sephora\Sephora\Sephora\obj\Debug\Sephora.pdb
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\ApplicationInsights.config
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\roslyn\csc.exe
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\roslyn\System.Collections.Immutable.dll
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\roslyn\System.Reflection.Metadata.dll
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\roslyn\vbc.exe
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\roslyn\VBCSCompiler.exe
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\roslyn\VBCSCompiler.exe.config
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\Sephora.dll.config
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\Sephora.dll
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\Sephora.pdb
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\Antlr3.Runtime.dll
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\Microsoft.AI.Agent.Intercept.dll
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\Microsoft.AI.DependencyCollector.dll
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\Microsoft.AI.Web.dll
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\Microsoft.AI.WindowsServer.dll
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\Microsoft.ApplicationInsights.dll
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\Microsoft.Web.Infrastructure.dll
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\Newtonsoft.Json.dll
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\System.Web.Helpers.dll
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\System.Web.Mvc.dll
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\System.Web.Optimization.dll
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\System.Web.Razor.dll
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\System.Web.WebPages.Deployment.dll
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\System.Web.WebPages.dll
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\System.Web.WebPages.Razor.dll
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\WebGrease.dll
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\Microsoft.AI.DependencyCollector.xml
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\Microsoft.AI.Web.xml
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\Microsoft.AI.WindowsServer.xml
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\Microsoft.ApplicationInsights.xml
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\System.Web.Helpers.xml
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\System.Web.Mvc.xml
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\System.Web.Optimization.xml
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\System.Web.Razor.xml
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\System.Web.WebPages.xml
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\System.Web.WebPages.Deployment.xml
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\System.Web.WebPages.Razor.xml
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\Antlr3.Runtime.pdb
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\bin\Newtonsoft.Json.xml
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\obj\Debug\Sephora.csprojResolveAssemblyReference.cache
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\obj\Debug\Sephora.dll
+F:\JOB ASSIGNMENT\Sephora(28-02-2018)\Sephora\Sephora\obj\Debug\Sephora.pdb

@@ -1,0 +1,236 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <div class="container">
+        <div class="center-block">
+            <h1>SEPHORA</h1>
+            <p class="lead">Natural, gorgeous beauty for everyday</p>
+            <p><a href="#" class="btn btn-primary btn-lg">Shop Now &raquo;</a></p>
+        </div>
+    </div>
+</div>
+<script>
+    $.ajax({
+        url: '/Home/GetProducts/',
+        success: function (data) {
+            var row = "";
+            $.each(data.data, function (index, obj) {
+                if (obj.attributes.sold_out == true) {
+					row += "<div onclick='GotoProduct(" + obj.id + ")' class='col-md-4 product-item'><a> <img src='http://via.placeholder.com/240x240'></a><h5>" + obj.attributes.name + "</h5> <h6>" + obj.attributes.category + "</h6><h5><strong><span>$&nbsp;</span>" + obj.attributes.price / 100 + "</strong></h5><h6>Sold Out</h6></div >";
+                } else {
+                    row += "<div onclick='GotoProduct(" + obj.id + ")' class='col-md-4 product-item'><a> <img src='http://via.placeholder.com/240x240'></a><h5>" + obj.attributes.name + "</h5> <h6>" + obj.attributes.category + "</h6><h5><strong><span>$&nbsp;</span>" + obj.attributes.price / 100 + "</strong></h5><h6>Under Sale</h6></div >";
+                }
+                
+            });
+            $("#grid").append(row);
+        },
+        error: function (req, status, errorObj) {
+            // handle status === "timeout"
+            // handle other errors
+        }
+    });
+
+    function GotoProduct(id) {
+        window.location.href = "/Home/Product?Id="+id;
+    }
+
+
+    function FilterByPrice(lower, upper) {
+        $("#grid").empty();
+        $.ajax({
+            url: '/Home/FilterByPrice?Lower=' + lower + "&Upper=" + upper,
+            success: function (data) {              
+                var row = "";
+                $.each(data, function (index, obj) {
+                    if (obj.attributes.sold_out == true) {
+						row += "<div onclick='GotoProduct(" + obj.id + ")' class='col-md-4 product-item'><a> <img src='http://via.placeholder.com/240x240'></a><h5>" + obj.attributes.name + "</h5> <h6>" + obj.attributes.category + "</h6><h5><strong><span>$&nbsp;</span>" + obj.attributes.price / 100 + "</strong></h5><h6>Sold Out</h6></div >";
+                    } else {
+						row += "<div onclick='GotoProduct(" + obj.id + ")' class='col-md-4 product-item'><a> <img src='http://via.placeholder.com/240x240'></a><h5>" + obj.attributes.name + "</h5> <h6>" + obj.attributes.category + "</h6><h5><strong><span>$&nbsp;</span>" + obj.attributes.price / 100 + "</strong></h5><h6>Under Sale</h6></div >";
+                    }
+                });
+                $("#grid").append(row);
+            },
+            error: function (req, status, errorObj) {
+                // handle status === "timeout"
+                // handle other errors
+            }
+        });
+    }
+
+    function GetByCatagory(catagory) {
+        $("#grid").empty();
+        $.ajax({
+            url: '/Home/GetByCatagory?Catagory=' + catagory ,
+            success: function (data) {
+                var row = "";
+                $.each(data.data, function (index, obj) {
+                    if (obj.attributes.sold_out == true) {
+						row += "<div onclick='GotoProduct(" + obj.id + ")' class='col-md-4 product-item'><a> <img src='http://via.placeholder.com/240x240'></a><h5>" + obj.attributes.name + "</h5> <h6>" + obj.attributes.category + "</h6><h5><strong><span>$&nbsp;</span>" + obj.attributes.price / 100 + "</strong></h5><h6>Sold Out</h6></div >";
+                    } else {
+						row += "<div onclick='GotoProduct(" + obj.id + ")' class='col-md-4 product-item'><a> <img src='http://via.placeholder.com/240x240'></a><h5>" + obj.attributes.name + "</h5> <h6>" + obj.attributes.category + "</h6><h5><strong><span>$&nbsp;</span>" + obj.attributes.price / 100 + "</strong></h5><h6>Under Sale</h6></div >";
+                    }
+                });
+                $("#grid").append(row);
+            },
+            error: function (req, status, errorObj) {
+                // handle status === "timeout"
+                // handle other errors
+            }
+        });
+    }
+
+    function SortBy(catagory) {
+        $("#grid").empty();
+        var SortBy = $("#SortBy").val();
+        $.ajax({
+            url: '/Home/GetSortBy?SortBy=' + SortBy,
+            success: function (data) {
+                var row = "";
+                $.each(data.data, function (index, obj) {
+                    if (obj.attributes.sold_out == true) {
+						row += "<div onclick='GotoProduct(" + obj.id + ")' class='col-md-4 product-item'><a> <img src='http://via.placeholder.com/240x240'></a><h5>" + obj.attributes.name + "</h5> <h6>" + obj.attributes.category + "</h6><h5><strong><span>$&nbsp;</span>" + obj.attributes.price / 100 + "</strong></h5><h6>Sold Out</h6></div >";
+                    } else {
+						row += "<div onclick='GotoProduct(" + obj.id + ")' class='col-md-4 product-item'><a> <img src='http://via.placeholder.com/240x240'></a><h5>" + obj.attributes.name + "</h5> <h6>" + obj.attributes.category + "</h6><h5><strong><span>$&nbsp;</span>" + obj.attributes.price / 100 + "</strong></h5><h6>Under Sale</h6></div >";
+                    }
+                });
+                $("#grid").append(row);
+            },
+            error: function (req, status, errorObj) {
+                // handle status === "timeout"
+                // handle other errors
+            }
+        });
+    }
+</script>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="#">Mackup</a></li>
+                <li class="breadcrumb-item"><a href="#">Face</a></li>
+                <li class="breadcrumb-item active">Foundation</li>
+            </ol>
+            <div class="">
+                <div class="panel-group" role="tablist">
+                    <div class="panel panel-default makeup-panel">
+                        <div class="panel-heading" role="tab" id="headingOne">
+                            <h4 class="panel-title">
+                                <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    Mackup
+                                </a>
+                            </h4>
+                        </div>
+                        <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+                            <div class="panel-body">
+                               <ul class="makeup-ul-1">
+                                   <li onclick='GetByCatagory("markup")'>See all Makup</li>
+                                   <li>Cheek</li>
+                                   <li>Face
+                                       <ul class="makeup-ul-2">
+                                           <li>Contouring</li>
+                                           <li>Primer</li>
+                                           <li onclick='GetByCatagory("tools")'>Tool</li>
+										   <li onclick='GetByCatagory("brushes")'>Brushes</li>
+                                           <li>Foundation</li>
+                                           <li>Face Powder</li>
+                                           <li>Cc &amp; Bb Cream</li>
+                                           <li>Conceater</li>
+                                       </ul>
+                                   </li>
+                                   <li>Eyes</li>
+                                   <li>Lips</li>
+                                   <li>Nails</li>
+                               </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="panel panel-default price-panel">
+                        <div class="panel-heading" role="tab" id="headingTwo">
+                            <h4 class="panel-title">
+                                <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                                    Price
+                                </a>
+                            </h4>
+                        </div>
+                        <div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+                            <div class="panel-body">
+                                <ul class="price-ul">
+                                    <li>
+                                        <input type="radio" name="price-range" onclick='FilterByPrice(0,2500)'/>
+                                        <label>Under $25</label>
+                                    </li>
+                                    <li>
+                                        <input type="radio"  name="price-range" onclick='FilterByPrice(2500,5000)'/>
+                                        <label>$25 - $50</label>
+                                    </li>
+                                    <li>
+                                        <input type="radio"  name="price-range" onclick='FilterByPrice(5000,10000)'/>
+                                        <label>$50 - $100</label>
+                                    </li>
+                                    <li>
+                                        <input type="radio"  name="price-range" onclick='FilterByPrice(10000,15000)'/>
+                                        <label>$100 - $150</label>
+                                    </li>
+                                    <li>
+                                        <input type="radio"  name="price-range" onclick='FilterByPrice(15000,30000)'/>
+                                        <label>$150 - $300</label>
+                                    </li>
+                                    <li>
+                                        <input type="radio"  name="price-range" onclick='FilterByPrice(30000,0)'/>
+                                        <label>Above $300</label>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>  
+        </div>
+        <div class="col-md-8">
+            <div class="row sorting">
+                <div class="col-md-12">
+                    <div class="pull-right">
+                        <div class="form-group">
+                            <label>Sort By:</label>
+                            <select onchange="SortBy()" id="SortBy" class="form-control">
+                                <option value="bestselling">Best Selling</option>
+                                <option value="lowtohigh">Price Low to High</option>
+                                <option value="hightolow">Price High to Low</option>
+                                <option value="bestselling">Best Selling</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label>View:</label>
+                            <select class="form-control">
+                                <option>30</option>
+                                <option>60</option>
+                                <option>120</option>
+                                <option>All</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <ul class="list-inline">
+                                <li>1</li>
+                                <li>2</li>
+                                <li>3</li>
+                                <li>...</li>
+                                <li>6</li>
+                                <li></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            @*<div class="row">
+                <p id="demo"></p>
+            </div>*@
+            <div id="grid" class="row">
+
+            </div>
+           
+        </div>
+    </div>
+</div>

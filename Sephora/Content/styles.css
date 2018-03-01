@@ -1,0 +1,175 @@
+body {
+	padding-top: 50px;
+	padding-bottom: 20px;
+}
+
+body .body-content {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.dl-horizontal dt {
+	white-space: normal;
+}
+
+input, select, textarea {
+	max-width: 280px;
+}
+
+.breadcrumb {
+	background-color: transparent !important;
+	margin-bottom: 0 !important;
+}
+
+.breadcrumb li + li:before {
+	padding: 0 5px;
+	color: #cccccc;
+	content: "\f105" !important;
+	display: inline-block;
+	font: normal normal normal 14px/1 FontAwesome;
+}
+
+.panel-group .panel + .panel {
+	margin-top: 10px !important;
+}
+
+.makeup-panel, .price-panel {
+	border: none;
+	box-shadow: none;
+}
+
+.makeup-panel {
+	border-top: 3px solid #000;
+	border-radius: 0 !important;
+	border-bottom: 3px solid #000;
+}
+
+.makeup-panel .panel-body {
+	padding-top: 0;
+	border: none !important;
+}
+
+.makeup-panel .panel-title {
+	font-size: 14px;
+	font-weight: 600;
+}
+
+.makeup-panel .panel-title a {
+	text-decoration: none;
+}
+
+.price-panel .panel-body {
+	padding-top: 0;
+	border: none !important;
+}
+
+.price-panel .panel-title {
+	font-size: 14px;
+	font-weight: 600;
+	text-decoration: none;
+}
+
+.price-panel .panel-title a {
+	text-decoration: none;
+	border-bottom: 1px solid #cacaca;
+	margin-bottom: 10px;
+}
+
+.panel-default .panel-heading {
+	background-color: #fff !important;
+	padding: 0 !important;
+}
+
+.panel-default .panel-heading a {
+	display: block;
+	padding: 10px 15px;
+}
+
+.panel-default .panel-heading a:after {
+	content: "";
+	position: relative;
+	top: 1px;
+	display: inline-block;
+	font-family: 'Glyphicons Halflings';
+	font-style: normal;
+	font-weight: 400;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	float: right;
+	transition: transform .25s linear;
+	-webkit-transition: -webkit-transform .25s linear;
+}
+
+.panel-default .panel-heading a[aria-expanded="true"]:after {
+	content: "\f105";
+	-webkit-transform: rotate(-90deg);
+	transform: rotate(-90deg);
+	font: normal normal 600 20px/0.5 FontAwesome;
+}
+
+.panel-defaul t.panel-heading a[aria-expanded="false"]:after {
+	content: "\f105";
+	-webkit-transform: rotate(90deg);
+	transform: rotate(90deg);
+	font: normal normal 600 20px/0.5 FontAwesome;
+}
+
+.accordion-option {
+	width: 100%;
+	float: left;
+	clear: both;
+	margin: 15px 0;
+}
+
+.accordion-option .title {
+	font-size: 20px;
+	font-weight: bold;
+	float: left;
+	padding: 0;
+	margin: 0;
+}
+
+.accordion-option .toggle-accordion {
+	float: right;
+	font-size: 16px;
+	color: #6a6c6f;
+}
+
+.accordion-option .toggle-accordion:before {
+	content: "Expand All";
+}
+
+.accordion-option .toggle-accordion.active:before {
+	content: "Collapse All";
+}
+
+.sorting .form-group {
+	display: inline-block;
+}
+
+.makeup-ul-1, .price-ul {
+	padding-left: 0;
+}
+
+.makeup-ul-2 {
+	padding-left: 15px;
+}
+
+.makeup-ul-1, .makeup-ul-2, .price-ul {
+	list-style: none;
+}
+
+.makeup-ul-1 li, .makeup-ul-2 li, .price-ul li {
+	cursor: pointer;
+}
+
+.product-row{
+    padding:50px 0;
+}
+
+.product-item{
+    padding:0;
+    cursor:pointer;
+    margin-bottom:15px;
+}

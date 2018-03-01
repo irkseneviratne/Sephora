@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewBag.Title = "Product" ;
+}
+
+<script>
+    $.ajax({
+        url: '/Home/GetProduct?Id='+@ViewBag.Id,
+        success: function (data) {
+            var row = "";        
+            row = "<div onclick='GotoProduct(" + data.data.id + ")' class='col-md-4'><img src='http://via.placeholder.com/350x350'></div><div class='col-md-8'><h5>" + data.data.attributes.name + "</h5> <h6><span>Category : </span>" + data.data.attributes.category + "</h6><h5><strong><span>$&nbsp;</span>" + data.data.attributes.price/100 + "</strong></h5></div >";
+            
+            if (data.data.attributes.sold_out == true) {
+                row += "<div class='col-md-8 col-md-offset-4'><h6>Sold Out <button class='btn btn-default' disabled>Buy Now</button></h6></div >";
+            } else {         
+                row += "<div class='col-md-8 col-md-offset-4'><h6>Under Sale <button class='btn btn-primary'>Buy Now</button></h6></div >";
+            }
+            
+            $("#grid").append(row);
+        },
+        error: function (req, status, errorObj) {
+            // handle status === "timeout"
+            // handle other errors
+        }
+    });
+</script>
+
+<div class="container-fluid">
+	<div class="container">
+		<div class="row product-row" id="grid">
+			@*<div class="col-md-4">
+				<img src='http://via.placeholder.com/350x350' />
+			</div>
+			<div class="col-md-8">
+				<h3>Product Name</h3>
+				<h5>Product Category</h5>
+				<h3><strong>$ 10</strong></h3>
+				<p>Availability</p>
+				<label>Qty:</label>
+				<input type="number" />
+				<button class="btn btn-primary">Buy Now</button>
+				<button class="btn btn-primary">Add to Cart</button>
+				<p>Rate it</p>
+			</div>*@
+		</div>
+	</div>
+</div>
+
